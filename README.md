@@ -1,2 +1,1 @@
-# Lab5
-JUnitTesting
+# Winter-School-Lab-3-PhotographerDevic-
